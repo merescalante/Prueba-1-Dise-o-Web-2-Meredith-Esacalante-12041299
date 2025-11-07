@@ -1,0 +1,72 @@
+body {
+    background-color: beige;
+}
+
+.margin {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.icono_tamaño {
+font-size:50px;
+
+}
+.padding_title {
+
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.padding_text {
+padding-top: 200px;
+}
+
+.color_white {
+    color:white;
+}
+.background_image {
+    background-image: url('../img/seccion\ 1.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px;
+    height:500px;
+}
+.background_navbar {
+     background-color:white;
+}
+
+.background_section_final {
+    background-image: url('../img/seccion\ 5.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px;
+    height:500px;
+}
+
+.background_footer {
+    background-image: url('../img/footer.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 50px;
+    height:300px;
+}
+
+.padding_footer {
+    padding:50px;
+    margin-left: 5px;
+}
+.form_margin {
+    margin-top:150px;
+}
+
+.padding {
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
